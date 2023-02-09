@@ -1,0 +1,1 @@
+python interactive_gui.py --video "/home/m11002125/test_video/cat_jump.mp4" --objects 1
